@@ -1,4 +1,4 @@
-package edu.example.lesson1;
+package edu.example.lesson1
 
-public class MyClass {
+class MyClass {
 }

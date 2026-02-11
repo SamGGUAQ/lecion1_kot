@@ -1,3 +1,7 @@
 package edu.example.lesson1
 
-val i: Int = 6
+fun main(args: Array<String>)
+{
+    println("Hola Múndo")
+
+}
