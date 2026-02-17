@@ -23,3 +23,4 @@ rootProject.name = "lecion1_kot"
 include(":app")
 include(":LESSON1")
 include(":practica1")
+include(":LESSON2")
