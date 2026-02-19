@@ -6,9 +6,12 @@ package edu.example.lesson2
 //    println(isUnit)
 //}
 val temperature = 10
+val message = "The water temperature is ${ if (temperature > 50) "too warm" else "OK" }."
 val isHot = if (temperature > 50) true else false
 fun main(){
-    println(isHot)
+    //println(isHot)
+    println(message)
 }
+
 
 
