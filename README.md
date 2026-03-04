@@ -1,1 +1,2 @@
-## Ruta del ejercicio LESSON1\src\main\java\edu\example\lesson1\Operators.kt
+## Ruta del ejercicio Candy Machine lecion1_kot/CandiMachine/src/main/java/edu/example/lib
+/Candi Machine.kt
